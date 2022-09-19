@@ -13,5 +13,7 @@
             "email": "imithu@imithu.org"
         }
     ],
-    "require": {}
+    "require": {
+        "robthree/twofactorauth": "^1.8"
+    }
 }
