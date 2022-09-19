@@ -1,0 +1,17 @@
+{
+    "name": "afancylab/security-laravel",
+    "description": "Security library for laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Security\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Mahmudul Hasan Mithu",
+            "email": "imithu@imithu.org"
+        }
+    ],
+    "require": {}
+}
